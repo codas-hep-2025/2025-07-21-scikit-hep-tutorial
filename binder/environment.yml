@@ -4,7 +4,7 @@ channels:
   - defaults
 #  - nvidia/label/cuda-12.4.1
 dependencies:
-  - python=3.13
+  - python=3.11
   - pip
   - cxx-compiler
   - zstandard
